@@ -1,8 +1,8 @@
 # Complete list of all GitHub Profile badges and Achievements
 
-#### Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
+#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
 
-Вы можете отказаться от отображения достижений в своем профиле, перейдя в [profile settings](https://github.com/settings).
+You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
 
 <br>
 
@@ -24,12 +24,12 @@
 
 ## Badge Tiers
 
-Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие необходимо произвести несколько раз.
+Some Achievements not only have the base version, but also tiers.
 
-| Достижение | По-умолчанию | Бронзовый | Серебряный | Золотой |
+| Achievement | Default | Bronze | Silver | Gold |
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Значок Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Бронзовый значок Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Серебряный значок Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Золотой значок Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
-| | 16 звёзд | 128 звёзд | 512 звёзд | 4096 звёзд <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
+| | 16 stars | 128 stars | 512 stars | 4096 stars <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
 | **Pair Extraordinaire** | ![Значок Pair Extraordinaire][pe-default] | ![Бронзовый значок Pair Extraordinaire][pe-bronze] | ![Серебряный значок Pair Extraordinaire][pe-silver] | ![Золотой значок Pair Extraordinaire][pe-gold] |
 | | 1 pull requests <br>[@gomzyakov](https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements) | 10 pull requests | 24 pull requests  | 48 pull requests <br>[@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements) |
 | **Pull Shark** | ![Значок Pull Shark][ps-default] | ![Бронзовый значок Pull Shark][ps-bronze] | ![Серебряный значок Pull Shark][ps-silver] | ![Золотой значок Pull Shark][ps-gold] |
@@ -61,15 +61,13 @@
 [gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
 [gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
 
-Все остальные значки на GitHub даются за однократное выполнение условий.
-
 <br>
 
 ## Achievement Skin Tone
 
-Внешний вид некоторых значков зависит от предпочитаемого вами тона кожи Emoji.
+Some achievements' appearance depends on your Emoji Skin Tone Preference.
 
-Вы можете изменить предпочитаемый тон кожи, перейдя в [Настройки внешнего вида](https://github.com/settings/appearance).
+You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
 
 <br>
 
@@ -109,8 +107,8 @@
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
 
+<br>
 
+## Do you have some ideas?
 
-## Есть предложения?
-
-Если у вас есть вопросы или предложения как улучшить информацию на этой странице, вы всегда можете написать в [issues](https://github.com/github-profile-achievements/english/issues).
+If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/github-profile-achievements/english/issues).
