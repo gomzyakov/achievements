@@ -6,3 +6,10 @@ url: https://github-profile-achievements.github.io/english/
 
 aux_links:
     Template Repository: https://github.com/github-profile-achievements/english
+
+# Set a path/url to a logo that will be displayed instead of the title
+# TODO logo: "/assets/images/just-the-docs.png"
+
+# Set a path/url to a favicon that will be displayed by the browser
+# TODO favicon_ico: "/assets/images/favicon.ico"
+
