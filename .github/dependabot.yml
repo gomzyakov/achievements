@@ -1,0 +1,19 @@
+# .github/dependabot.yml
+version: 2
+updates:    # Maintain dependencies for Composer
+    - package-ecosystem: "bundler"
+      directory: "/"
+      schedule:
+          interval: "weekly"
+      # Force commit message preferences
+      commit-message:
+          prefix: "build"
+          include: "scope"
+      # Add assignees
+      assignees:
+          - "gomzyakov"
+      # Specify labels for npm pull requests
+      labels:
+          - "dependencies"
+      # Increase the version requirements for Composer only when required
+      versioning-strategy: increase
