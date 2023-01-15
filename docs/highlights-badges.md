@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Highlights Badges
+layout: default
 nav_order: 4
 ---
 
