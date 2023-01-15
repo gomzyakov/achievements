@@ -13,3 +13,14 @@ aux_links:
 # Set a path/url to a favicon that will be displayed by the browser
 # TODO favicon_ico: "/assets/images/favicon.ico"
 
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+    "Badges & achievements on GitHub":
+        - "https://github.com/github-profile-achievements/english"
+
+# Makes Aux links open in a new tab.
+aux_links_new_tab: true
