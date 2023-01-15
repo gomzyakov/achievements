@@ -4,8 +4,13 @@ theme: just-the-docs
 
 url: https://github-profile-achievements.github.io/english/
 
+# Aux links for the upper right navigation
 aux_links:
-    Template Repository: https://github.com/github-profile-achievements/english
+    "Badges & achievements on GitHub":
+        - "https://github.com/github-profile-achievements/english"
+
+# Makes Aux links open in a new tab.
+aux_links_new_tab: true
 
 # Set a path/url to a logo that will be displayed instead of the title
 # TODO logo: "/assets/images/just-the-docs.png"
@@ -16,14 +21,6 @@ aux_links:
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
 heading_anchors: true
-
-# Aux links for the upper right navigation
-aux_links:
-    "Badges & achievements on GitHub":
-        - "https://github.com/github-profile-achievements/english"
-
-# Makes Aux links open in a new tab.
-aux_links_new_tab: true
 
 # Footer content
 # appears at the bottom of every page's main content
