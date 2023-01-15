@@ -4,6 +4,9 @@ theme: just-the-docs
 
 url: https://github-profile-achievements.github.io/english/
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 # Aux links for the upper right navigation
 aux_links:
     "Badges & achievements on GitHub":
@@ -38,6 +41,3 @@ gh_edit_repository: "https://github.com/github-profile-achievements/english" # t
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
