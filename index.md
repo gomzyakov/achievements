@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav_order: 4
+nav_order: 1
 ---
 
 # Complete list of all GitHub Profile badges and Achievements

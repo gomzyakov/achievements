@@ -1,6 +1,6 @@
 ---
 title: Highlights Badges
-layout: default
+layout: home
 nav_order: 4
 ---
 
