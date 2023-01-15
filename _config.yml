@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://github-profile-achievements.github.io/english/
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
 
 # Aux links for the upper right navigation
 aux_links:
