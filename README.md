@@ -17,8 +17,8 @@ You can opt out from having achievements displayed on your profile by going to y
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 accepted answers or [more](#Badge-tiers). |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review . |
 | ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors). |
-| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). :x: No more earning. |
-| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). :x: No more earning. |
+| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). :x: Now unable to earn. |
+| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). :x: Now unable to earn. |
 
 <br>
 
@@ -93,7 +93,7 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 ## Highlights Badges
 
-| Badge | Name | How to get |
+| Badge | Name | How to achieve |
 | --- | --- | --- |
 | ![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | **Pro** | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | Have  your reply to a discussion marked as the answer |
