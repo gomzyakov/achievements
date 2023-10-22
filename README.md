@@ -1,6 +1,6 @@
 # Complete list of all GitHub Profile badges and Achievements
 
-#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
+#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile
 
 You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
 
@@ -37,14 +37,10 @@ Some Achievements not only have the base version, but also tiers.
 | **Galaxy Brain** | ![Achievement badge Galaxy Brain][gb-default] | ![Bronze badge Galaxy Brain][gb-bronze] | ![Silver badge Galaxy Brain][gb-silver] | ![Gold badge Galaxy Brain][gb-gold] |
 | | 2 answers | 8 answers | 16 answers | 32 answers <br>[@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements) |
 | **Heart On Your Sleeve** | ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | ![Bronze badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png) | ![Silver badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png) | ![Gold badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png) |
-| | ??? | ??? | ??? | ??? |
+| | (Being tested) | (Being tested) | (Being tested) | (Being tested) |
 | **Open Sourcerer** | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | ![Bronze badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png) | ![Silver badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png) | ![Gold badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png) |
-| | ??? | ??? | ??? | ??? |
+| | (Being tested) | (Being tested) | (Being tested) | (Being tested) |
 
-
-[ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
-[ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
-[ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
 
 [pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
 [pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
@@ -76,11 +72,6 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 | **Starstruck** | ![Default skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
 | **Quickdraw** | ![Default skin tone of Quickdraw][q-default] | ![Light skin tone of Quickdraw][q-light] | ![Light-medium skin tone of Quickdraw][q-light-medium] | ![Medium skin tone of Quickdraw][q-medium] | ![Medium-dark skin tone of Quickdraw][q-medium-dark] | ![Dark skin tone of Quickdraw][q-dark] |
 
-[s-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
-[s-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
-[s-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png
-[s-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png
-[s-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png
 
 [q-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
 [q-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
