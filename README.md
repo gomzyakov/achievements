@@ -114,4 +114,4 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 ## Do you have some ideas?
 
-If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/github-profile-achievements/english/issues).
+If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/gomzyakov/github-achievements/issues).
