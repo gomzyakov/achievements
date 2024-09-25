@@ -1,8 +1,8 @@
 # Complete list of all GitHub Profile Badges and Achievements
 
-#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
+Languages:
 
-You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues).
 
 <br>
 
@@ -114,4 +114,4 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 ## Do you have some ideas?
 
-If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/gomzyakov/github-achievements/issues).
+If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/gomzyakov/achievements/issues).
