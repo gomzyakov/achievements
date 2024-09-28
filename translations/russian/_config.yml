@@ -1,0 +1,10 @@
+remote_theme: github-profile-achievements/jekyll-theme
+
+title: Полный список значков и достижений на GitHub
+description: Полный список значков и достижений на GitHub
+lang: ru
+logo_url: https://avatars.githubusercontent.com/u/117988194?s=200&v=4
+
+# Navbar
+navbar_link_text: Значки и достижения на GitHub на других языках
+navbar_button_text: Эта страница на GitHub
