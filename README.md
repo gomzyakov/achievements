@@ -1,8 +1,11 @@
 # Complete list of all GitHub Profile Badges and Achievements
 
-Languages:
+#### Read this in other languages:
 
-Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues).
+[English](README.md)
+&middot; [Русский](translations/README.ru.md)
+
+_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 
@@ -107,8 +110,8 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: images/stars-dark.svg#gh-dark-mode-only
-[stars-light]: images/stars-light.svg#gh-light-mode-only
+[stars-dark]: assets/images/stars-dark.svg#gh-dark-mode-only
+[stars-light]: assets/images/stars-light.svg#gh-light-mode-only
 
 <br>
 
