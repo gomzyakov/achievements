@@ -5,7 +5,7 @@
 [English](README.md)
 &middot; [Русский](translations/README.ru.md)
 
-Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues).
+_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 
