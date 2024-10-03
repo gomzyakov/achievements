@@ -1,6 +1,28 @@
 # Vollständige Liste aller Abzeichen und Erfolge auf GitHub
 
-Das Anzeigen von GitHub Erflogen auf Ihrem Profil ist optional, Sie können das Anzeigen von Erfolgen in Ihren [Profileinstellungen](https://github.com/settings) manuell deaktivieren.
+#### Read this in other languages:
+
+[English](../../README.md)
+&middot; [Chinese](../../lang/chinese/README.md)
+&middot; [Русский](../../lang/russian/README.md)
+&middot; [Nederlands](../../lang/dutch/README.md)
+&middot; [Français](../../lang/french/README.md)
+&middot; [Deutsch](../../lang/german/README.md)
+&middot; [हिन्दी](../../lang/hindi/README.md)
+&middot; [Italiano](../../lang/italian/README.md)
+&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
+&middot; [odia](../../lang/odia/README.md)
+&middot; [pidgin](../../lang/pidgin/README.md)
+&middot; [Polski](../../lang/polish/README.md)
+&middot; [Português](../../lang/portuguese/README.md)
+&middot; [Español](../../lang/spanish/README.md)
+&middot; [Kiswahili](../../lang/swahili/README.md)
+&middot; [తెలుగు](../../lang/telugu/README.md)
+&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
+&middot; [Türkçe](../../lang/turkish/README.md)
+&middot; [isiZulu](../../lang/zulu/README.md)
+
+_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 

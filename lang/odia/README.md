@@ -1,8 +1,28 @@
 # ସମସ୍ତ GitHub ପ୍ରୋଫାଇଲ୍ ବ୍ୟାଜ୍ ଏବଂ ସଫଳତାର ସମ୍ପୂର୍ଣ୍ଣ ତାଲିକା
 
-#### ତୁମର ପ୍ରୋଫାଇଲରେ କୃତିତ୍ୱ ପ୍ରଦର୍ଶନ କରିବା ସଂପୂର୍ଣ୍ଣ ଇଚ୍ଛାଧୀନ ଅଟେ ଡିଫଲ୍ଟ ଭାବରେ, ସେମାନେ ଆପଣଙ୍କର ସାର୍ବଜନୀନ ପ୍ରୋଫାଇଲ୍ ଦେଖୁଥିବା ବ୍ୟକ୍ତିଙ୍କ ଦ୍ୱାରା ଦେଖାଯାଇପାରିବ |
+#### Read this in other languages:
 
-[ପ୍ରୋଫାଇଲ୍ ସେଟିଂସମୂହ](https://github.com/settings) ତୁମ ପାଖକୁ ଯାଇ ତୁମର ପ୍ରୋଫାଇଲରେ ସଫଳତା ପ୍ରଦର୍ଶିତ ହେବା ଠାରୁ ତୁମେ ବାଛି ପାରିବେ । 
+[English](../../README.md)
+&middot; [Chinese](../../lang/chinese/README.md)
+&middot; [Русский](../../lang/russian/README.md)
+&middot; [Nederlands](../../lang/dutch/README.md)
+&middot; [Français](../../lang/french/README.md)
+&middot; [Deutsch](../../lang/german/README.md)
+&middot; [हिन्दी](../../lang/hindi/README.md)
+&middot; [Italiano](../../lang/italian/README.md)
+&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
+&middot; [odia](../../lang/odia/README.md)
+&middot; [pidgin](../../lang/pidgin/README.md)
+&middot; [Polski](../../lang/polish/README.md)
+&middot; [Português](../../lang/portuguese/README.md)
+&middot; [Español](../../lang/spanish/README.md)
+&middot; [Kiswahili](../../lang/swahili/README.md)
+&middot; [తెలుగు](../../lang/telugu/README.md)
+&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
+&middot; [Türkçe](../../lang/turkish/README.md)
+&middot; [isiZulu](../../lang/zulu/README.md)
+
+_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 

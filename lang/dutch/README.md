@@ -1,8 +1,28 @@
 # Volledige lijst van alle GitHub-profielbadges en prestaties
 
-#### Het tonen van prestaties op je profiel is volledig optioneel; standaard kunnen ze door iedereen gezien worden op je publieke profiel.
+#### Read this in other languages:
 
-Je kan het tonen van je prestaties op je profiel uit zetten door naar je [profiel-instellingen](https://github.com/settings) te gaan.
+[English](../../README.md)
+&middot; [Chinese](../../lang/chinese/README.md)
+&middot; [Русский](../../lang/russian/README.md)
+&middot; [Nederlands](../../lang/dutch/README.md)
+&middot; [Français](../../lang/french/README.md)
+&middot; [Deutsch](../../lang/german/README.md)
+&middot; [हिन्दी](../../lang/hindi/README.md)
+&middot; [Italiano](../../lang/italian/README.md)
+&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
+&middot; [odia](../../lang/odia/README.md)
+&middot; [pidgin](../../lang/pidgin/README.md)
+&middot; [Polski](../../lang/polish/README.md)
+&middot; [Português](../../lang/portuguese/README.md)
+&middot; [Español](../../lang/spanish/README.md)
+&middot; [Kiswahili](../../lang/swahili/README.md)
+&middot; [తెలుగు](../../lang/telugu/README.md)
+&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
+&middot; [Türkçe](../../lang/turkish/README.md)
+&middot; [isiZulu](../../lang/zulu/README.md)
+
+_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 

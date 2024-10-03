@@ -1,8 +1,28 @@
 # 所有 GitHub 個人資料徽章和成就的完整列表
 
-#### 在您的個人資料中顯示成就完全是可選的； 預設情況下，任何檢視您的公開個人資料的人都可以看到它們。
+#### Read this in other languages:
 
-您可以轉到您的[個人資料設定](https://github.com/settings)，選擇不讓成就顯示在您的個人資料上。
+[English](../../README.md)
+&middot; [Chinese](../../lang/chinese/README.md)
+&middot; [Русский](../../lang/russian/README.md)
+&middot; [Nederlands](../../lang/dutch/README.md)
+&middot; [Français](../../lang/french/README.md)
+&middot; [Deutsch](../../lang/german/README.md)
+&middot; [हिन्दी](../../lang/hindi/README.md)
+&middot; [Italiano](../../lang/italian/README.md)
+&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
+&middot; [odia](../../lang/odia/README.md)
+&middot; [pidgin](../../lang/pidgin/README.md)
+&middot; [Polski](../../lang/polish/README.md)
+&middot; [Português](../../lang/portuguese/README.md)
+&middot; [Español](../../lang/spanish/README.md)
+&middot; [Kiswahili](../../lang/swahili/README.md)
+&middot; [తెలుగు](../../lang/telugu/README.md)
+&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
+&middot; [Türkçe](../../lang/turkish/README.md)
+&middot; [isiZulu](../../lang/zulu/README.md)
+
+_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 
