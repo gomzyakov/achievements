@@ -1,12 +1,3 @@
-remote_theme: github-profile-achievements/jekyll-theme
+remote_theme: gomzyakov/achievements-theme
 
 title: Complete list of all GitHub Profile badges and Achievements
-description: Complete list of all GitHub Profile badges and Achievements
-permalinks: pretty
-
-lang: en
-logo_url: https://avatars.githubusercontent.com/u/117988194?s=200&v=4
-
-# Navbar
-navbar_link_text: GitHub profile achievements in other languages
-navbar_button_text: This page on GitHub
