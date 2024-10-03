@@ -3,7 +3,7 @@
 #### Read this in other languages:
 
 [English](README.md)
-&middot; [Русский](translations/russian/README.md)
+&middot; [Русский](lang/russian/README.md)
 
 _Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
