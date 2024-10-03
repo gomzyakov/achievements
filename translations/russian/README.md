@@ -2,8 +2,8 @@
 
 #### Этот файл доступен на других языках:
 
-[English](README.md)
-&middot; [Русский](translations/README.ru.md)
+[English](../../README.md)
+&middot; [Русский](README.md)
 
 _Не нашли нужный вам язык? Просто создайте [issues](https://github.com/gomzyakov/achievements/issues)._
 

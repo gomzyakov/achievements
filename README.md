@@ -3,15 +3,14 @@
 #### Read this in other languages:
 
 [English](README.md)
-&middot; [Русский](translations/README.ru.md)
 &middot; [Русский](translations/russian/README.md)
 
 _Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 
-| Badge | Name | How to get                                                                                                                                                       |
-| :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Badge | Name | How to get |
+| :---: | --- | --- |
 | ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested)** |
 | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested)** |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Created a repository that has **16 stars** or [more](#badge-tiers).                                                                                              |
