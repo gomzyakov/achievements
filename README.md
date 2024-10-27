@@ -1,6 +1,6 @@
 # Complete list of all GitHub Profile Badges and Achievements
 
-#### Read this in other languages:
+Read this in other languages:
 
 [English](README.md)
 &middot; [Chinese](lang/chinese/README.md)
