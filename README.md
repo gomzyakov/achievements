@@ -28,8 +28,8 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 
 | Badge | Name | How to get |
 | :---: | --- | --- |
-| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested)** |
-| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested)** |
+| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested - now unable to earn)** |
+| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested - now unable to earn)** |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Created a repository that has **16 stars** or [more](#badge-tiers).                                                                                              |
 | ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Closed an issue or a pull request within 5 min of opening.                                                                                                       |
 | ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Coauthored in **one** or [more](#badge-tiers) merged pull requests.                                                                                             |
