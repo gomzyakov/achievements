@@ -35,7 +35,7 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 | ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Coauthored in **one** or [more](#badge-tiers) merged pull requests.                                                                                             |
 | ![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** merged (or [more](#badge-tiers)).                                                                                                            |
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 accepted answers or [more](#badge-tiers). <br> *Now unable to earn via [Community discussions](https://github.com/orgs/community/discussions/), for more information see [here](https://github.com/orgs/community/discussions/106536).*                                                                                                                       |
-| ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review .                                                                                                       |
+| ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review.                                                                                                       |
 | ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors).                                                                                  |
 | ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Now unable to earn.* |
 | ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Now unable to earn.*                                 |
@@ -85,7 +85,7 @@ Some Achievements not only have the base version, but also tiers.
 
 ## Achievement Skin Tone
 
-Some achievements' appearance depends on your Emoji Skin Tone Preference.
+The appearance of some achievements depends on your Emoji Skin Tone Preference.
 
 You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
 
