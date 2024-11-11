@@ -127,7 +127,7 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: assets/images/stars-dark.svg#gh-dark-mode-only
+[stars-dark]: [assets/images/stars-dark.svg#gh-dark-mode-only](https://private-user-images.githubusercontent.com/187608631/384937096-7d7f73aa-7985-4898-9009-2b72e57f74de.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzMzI0NDgsIm5iZiI6MTczMTMzMjE0OCwicGF0aCI6Ii8xODc2MDg2MzEvMzg0OTM3MDk2LTdkN2Y3M2FhLTc5ODUtNDg5OC05MDA5LTJiNzJlNTdmNzRkZS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMVQxMzM1NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZWI5N2IwZTllNzBhNTEyYmEwNjliNmFlZTc1ODc4ZmQyMDRlNjdlNGQzNDk2ZGMwN2NlOGQzMWM1NTQyMzFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iENirqdzZ3-DSf15oDT5D277JaklDo3QaZseR0RCQko)
 [stars-light]: https://user-images.githubusercontent.com/187608631/384937247-d12a53f6-0cd1-44e4-b7c6-7f6568d7b7e1.svg#gh-light-mode-only
 
 <br>
