@@ -11,6 +11,7 @@
 &middot; [हिन्दी](../../lang/hindi/README.md)
 &middot; [Italiano](../../lang/italian/README.md)
 &middot; [한국어](lang/korean/README.md)  
+&middot; [தமிழ்](lang/tamil/README.md)
 &middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
 &middot; [odia](../../lang/odia/README.md)
 &middot; [pidgin](../../lang/pidgin/README.md)
