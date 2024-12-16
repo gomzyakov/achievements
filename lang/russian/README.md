@@ -23,6 +23,7 @@
 &middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
 &middot; [Türkçe](../../lang/turkish/README.md)
 &middot; [isiZulu](../../lang/zulu/README.md)
+&middot; [Tiếng Việt](lang/zulu/README.md)
 
 _Не нашли нужный вам язык? Просто создайте [issues](https://github.com/gomzyakov/achievements/issues)._
 
