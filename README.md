@@ -25,7 +25,9 @@ Read this in other languages:
 &middot; [isiZulu](lang/zulu/README.md)
 &middot; [Tiếng Việt](lang/vietnamese/README.md)
 
-_Don't have the language you need? Just create an [issues](https://github.com/achvm/achvm.github.io/issues)._
+_Don't have the language you need? Just create an [issue](https://github.com/achvm/achvm.github.io/issues/new/choose)._
+
+_Interested in contributing? Check out the [issues](https://github.com/achvm/achvm.github.io/issues)._
 
 <br>
 
