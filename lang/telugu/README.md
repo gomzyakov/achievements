@@ -23,6 +23,7 @@ GitHub ప్రొఫైల్ బ్యాడ్జ్‌లు మరియ�
 &middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
 &middot; [Türkçe](../../lang/turkish/README.md)
 &middot; [isiZulu](../../lang/zulu/README.md)
+&middot; [Tiếng Việt](../../lang/vietnamese/README.md)
 
 _Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
