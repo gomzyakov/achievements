@@ -25,9 +25,9 @@ Read this in other languages:
 &middot; [isiZulu](lang/zulu/README.md)
 &middot; [Tiếng Việt](lang/vietnamese/README.md)
 
-_Don't have the language you need? Just create an [issue](https://github.com/achvm/achvm.github.io/issues/new/choose)._
+_Don't have the language you need? Just create an [issue](https://github.com/gomzyakov/achievements/issues/new/choose)._
 
-_Interested in contributing? Check out the [issues](https://github.com/achvm/achvm.github.io/issues)._
+_Interested in contributing? Check out the [issues](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 
@@ -138,4 +138,4 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 ## Do you have some ideas?
 
-If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/achvm/achvm.github.io/issues).
+If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/gomzyakov/achievements/issues).
