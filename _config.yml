@@ -1,8 +1,8 @@
-remote_theme: achvm/achvm-theme
+remote_theme: gomzyakov/achievements-theme
 
 title: Complete list of all GitHub Profile badges and Achievements
 logo_url: https://avatars.githubusercontent.com/u/117988194?s=200&v=4
-repository: https://github.com/achvm/achvm.github.io
-url: https://achvm.github.io
-navbar link: https://achvm.github.io
+repository: https://github.com/gomzyakov/achievements
+url: https://gomzyakov.github.io/achievements
+navbar link: https://gomzyakov.github.io/achievements
 baseurl: ""
