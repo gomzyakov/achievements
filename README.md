@@ -27,8 +27,6 @@ Read this in other languages:
 
 _Don't have the language you need? Just create an [issue](https://github.com/gomzyakov/achievements/issues/new/choose)._
 
-_Interested in contributing? Check out the [issues](https://github.com/gomzyakov/achievements/issues)._
-
 <br>
 
 | Badge | Name | How to get |
