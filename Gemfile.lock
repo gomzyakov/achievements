@@ -268,7 +268,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed
   jekyll-include-cache
   jekyll-sitemap
   jekyll-titles-from-headings
