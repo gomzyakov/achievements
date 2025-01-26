@@ -10,12 +10,10 @@ include:
   - LICENSE
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
-  - jekyll-avatar
-  - jemoji
-  - jekyll-mentions
   - jekyll-titles-from-headings
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude the `vendor` folder created by build process
 exclude:

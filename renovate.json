@@ -1,6 +1,0 @@
-{
-    "extends": ["config:recommended", ":disableDependencyDashboard"],
-    "schedule": [
-        "on the first day of the month"
-    ]
-}
