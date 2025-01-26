@@ -10,9 +10,9 @@ include:
   - LICENSE
 
 plugins:
+  - github-pages
   - jekyll-include-cache
   - jekyll-titles-from-headings
-  - jekyll-feed
   - jekyll-sitemap
 
 # Exclude the `vendor` folder created by build process
