@@ -2,28 +2,28 @@
 
 #### Read this in other languages:
 
-[English](../../README.md)
-&middot; [Chinese](../../lang/chinese/README.md)
-&middot; [Русский](../../lang/russian/README.md)
-&middot; [Nederlands](../../lang/dutch/README.md)
-&middot; [Français](../../lang/french/README.md)
-&middot; [Deutsch](../../lang/german/README.md)
-&middot; [हिन्दी](../../lang/hindi/README.md)
-&middot; [Italiano](../../lang/italian/README.md)
+[English](../README.md)
+&middot; [Chinese](chinese.md)
+&middot; [Русский](../../lang/russian/russian)
+&middot; [Nederlands](dutch.md)
+&middot; [Français](../../lang/french/french)
+&middot; [Deutsch](../../lang/german/german)
+&middot; [हिन्दी](../../lang/hindi/hindi)
+&middot; [Italiano](../../lang/italian/italian)
 &middot; [한국어](lang/korean/README.md)
 &middot; [தமிழ்](lang/tamil/README.md)
-&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
-&middot; [odia](../../lang/odia/README.md)
-&middot; [pidgin](../../lang/pidgin/README.md)
-&middot; [Polski](../../lang/polish/README.md)
-&middot; [Português](../../lang/portuguese/README.md)
-&middot; [Español](../../lang/spanish/README.md)
-&middot; [Kiswahili](../../lang/swahili/README.md)
-&middot; [తెలుగు](../../lang/telugu/README.md)
-&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
-&middot; [Türkçe](../../lang/turkish/README.md)
-&middot; [isiZulu](../../lang/zulu/README.md)
-&middot; [Tiếng Việt](../../lang/vietnamese/README.md)
+&middot; [ಕನ್ನಡ](../../lang/kannada/kannada)
+&middot; [odia](../../lang/odia/odia)
+&middot; [pidgin](../../lang/pidgin/pidgin)
+&middot; [Polski](../../lang/polish/polish)
+&middot; [Português](../../lang/portuguese/portuguese)
+&middot; [Español](../../lang/spanish/spanish)
+&middot; [Kiswahili](../../lang/swahili/swahili)
+&middot; [తెలుగు](../../lang/telugu/telugu)
+&middot; [Traditional chinese](../../lang/traditional-chinese/traditional-chinese)
+&middot; [Türkçe](../../lang/turkish/turkish)
+&middot; [isiZulu](../../lang/zulu/zulu)
+&middot; [Tiếng Việt](../../lang/vietnamese/vietnamese)
 
 _Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
@@ -129,8 +129,6 @@ Je kan je voorkeur voor de Huidskleur aanpassen, door naar de [weergave instelli
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: https://private-user-images.githubusercontent.com/187608631/384937096-7d7f73aa-7985-4898-9009-2b72e57f74de.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzMzMxNDksIm5iZiI6MTczMTMzMjg0OSwicGF0aCI6Ii8xODc2MDg2MzEvMzg0OTM3MDk2LTdkN2Y3M2FhLTc5ODUtNDg5OC05MDA5LTJiNzJlNTdmNzRkZS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMVQxMzQ3MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMGJhODRmMGIzYTk0YjRmNmYzOWEzZjUwZjVkOTMxNWNmNmNmOWNmOTIxZmVkZDBlYWM1Njk0MzhiYzI1NDk5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vtxAyuZURAyPuWlFGpXJBVHS4f0JUCsiGiR5DeFzb3M
-[stars-light]: https://private-user-images.githubusercontent.com/187608631/384937247-d12a53f6-0cd1-44e4-b7c6-7f6568d7b7e1.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzMzMxNDksIm5iZiI6MTczMTMzMjg0OSwicGF0aCI6Ii8xODc2MDg2MzEvMzg0OTM3MjQ3LWQxMmE1M2Y2LTBjZDEtNDRlNC1iN2M2LTdmNjU2OGQ3YjdlMS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMVQxMzQ3MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZDgwOWZhNmI2ODY1NTllMjZjZmExNzZiNzEwYjM4NDhiNGFlYjQ4YTk5OGQ3YTE0OWJmY2RmZGQ3NjlkMTUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VAkoABXwOgXy38BL0AAn0PQE_tzd73Byg16kFKAUnA8
 
 <br>
 
