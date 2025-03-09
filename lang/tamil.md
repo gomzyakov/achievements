@@ -123,7 +123,7 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | ஆம் | [GitHub Security](https://bounty.github.com/) இல் பாதுகாப்பு பாதிப்புகளைக் கண்டறியவும் |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | ஆம் | [GitHub Campus Program] இல் பங்கேற்கவும்(https://education.github.com/experts)（[ஆகஸ்ட் 2024]ல் திறக்கவும்(https://education.github.com/campus_experts)）|
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security Advisory Credit** | ஆம் | [GitHub ஆலோசனை தரவுத்தளத்தில்](https://github.com/advisories) சமர்ப்பிக்கப்பட்ட பாதுகாப்பு பரிந்துரைகள் ஏற்கப்படுகின்றன |
-| ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | ஆம் | [GitHub Star] ஆகுங்கள்(https://stars.github.com) |
+|  | **GitHub Star** | ஆம் | [GitHub Star] ஆகுங்கள்(https://stars.github.com) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | இல்லை |விவாதங்களில் உள்ள பதில்கள் பதில்களாகக் குறிக்கப்படுகின்றன |
 
 
@@ -131,8 +131,6 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: images/stars-dark.svg#gh-dark-mode-only
-[stars-light]: images/stars-light.svg#gh-light-mode-only
 
 <br>
 

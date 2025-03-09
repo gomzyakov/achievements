@@ -123,7 +123,7 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | 네 | [GitHub Security](https://bounty.github.com/)에서 보안 취약점 찾기 |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | 네 | 참여 [GitHub Campus Program](https://education.github.com/experts)（[2024년 8월에 개방](https://education.github.com/campus_experts)）|
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security Advisory Credit** | 네 | [GitHub Advisory Database](https://github.com/advisories)에 제출된 보안 권고가 수락되었습니다. |
-| ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | 네 | [GitHub Star](https://stars.github.com)가 되세요.|
+|  | **GitHub Star** | 네 | [GitHub Star](https://stars.github.com)가 되세요.|
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | 아니요 | 토론에서 답변으로 표시된 댓글 |
 
 
@@ -131,8 +131,6 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: images/stars-dark.svg#gh-dark-mode-only
-[stars-light]: images/stars-light.svg#gh-light-mode-only
 
 <br>
 
