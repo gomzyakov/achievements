@@ -123,15 +123,13 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Yes | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Yes | Participate in the [GitHub Campus Program](https://education.github.com/experts) (Open [in August 2024](https://education.github.com/campus_experts)) |
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security Advisory Credit** | Yes | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
-| ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | Yes | Become a [GitHub Star](https://stars.github.com) |
+|  | **GitHub Star** | Yes | Become a [GitHub Star](https://stars.github.com) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | No | Have  your reply to a discussion marked as the answer |
 
 [gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: https://github.com/user-attachments/assets/65e7d969-413f-4475-bceb-36841c4484cb
-[stars-light]: https://github.com/user-attachments/assets/ae09cb09-3f96-46e2-8f1b-26a2cea79529
 <br>
 
 ## Do you have some ideas?

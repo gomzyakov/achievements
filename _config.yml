@@ -1,9 +1,9 @@
 # Text for `site.*`
 title: Complete list of all GitHub profile Badges and Achievements
 logo_url: https://avatars.githubusercontent.com/u/117988194?s=200&v=4
-url: https://badges-and-achievements.github.io
+url: https://gomzyakov.github.io/github-profile-achievements
 baseurl: ""
-repository: badges-and-achievements/badges-and-achievements.github.io
+repository: gomzyakov/github-profile-achievements
 
 permalinks: pretty
 
