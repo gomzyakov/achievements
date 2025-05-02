@@ -138,4 +138,4 @@ Você pode alterar a preferência de cor de pele acessando [configuração visua
 
 ## Possui alguma ideia?
 
-Se você possui perguntas ou sugestões de como melhorar esta página, você pode sempre abrir uma [issue](https://github.com/github-profile-achievements/template/issues).
+Se você possui perguntas ou sugestões de como melhorar esta página, você pode sempre abrir uma [issue](https://github.com/gomzyakov/achievements/issues).

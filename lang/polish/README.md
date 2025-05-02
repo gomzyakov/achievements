@@ -134,4 +134,4 @@ Możesz zmienić preferowany kolor skóry w [ustawieniach wyglądu](https://gith
 
 ## Masz pomysły?
 
-Jeśli masz pytania lub sugestie dotyczące ulepszenia informacji na tej strone, możesz zawsze stworzyć [problem](https://github.com/github-profile-achievements/template/issues) (issue).
+Jeśli masz pytania lub sugestie dotyczące ulepszenia informacji na tej strone, możesz zawsze stworzyć [problem](https://github.com/gomzyakov/achievements/issues) (issue).

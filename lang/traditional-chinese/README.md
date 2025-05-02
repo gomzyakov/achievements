@@ -134,4 +134,4 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 
 ## 你有任何想法嗎？
 
-如果您對如何改進此頁面上的資訊有疑問或建議，您可以隨時提 [issues](https://github.com/github-profile-achievements/template/issues).
+如果您對如何改進此頁面上的資訊有疑問或建議，您可以隨時提 [issues](https://github.com/gomzyakov/achievements/issues).

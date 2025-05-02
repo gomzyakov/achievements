@@ -134,4 +134,4 @@ Vous pouvez changer vos préférences de couleur de peau des emoji dans les [par
 
 ## Vous avez des idées ?
 
-Si vous avez des questions ou des suggestions sur comment améliorer les informations sur cette pages, vous pouvez toujours ouvrir une [issues](https://github.com/github-profile-achievements/french/issues).
+Si vous avez des questions ou des suggestions sur comment améliorer les informations sur cette pages, vous pouvez toujours ouvrir une [issues](https://github.com/gomzyakov/achievements/issues).

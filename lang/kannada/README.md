@@ -134,4 +134,4 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 
 ## ನಿಮ್ಮಲ್ಲಿ ಕೆಲವು ಆಲೋಚನೆಗಳಿವೆಯೇ?
 
-ಈ ಪುಟದಲ್ಲಿ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸುಧಾರಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ನಿಮ್ಮಲ್ಲಿ ಪ್ರಶ್ನೆಗಳು ಅಥವಾ ಸಲಹೆಗಳಿದ್ದರೆ, ನೀವು ಯಾವಾಗಲೂ[ಸಮಸ್ಯೆಗಳು](https://github.com/github-profile-achievements/template/issues) ಗೆ ಬರೆಯಬಹುದು.
+ಈ ಪುಟದಲ್ಲಿ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸುಧಾರಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ನಿಮ್ಮಲ್ಲಿ ಪ್ರಶ್ನೆಗಳು ಅಥವಾ ಸಲಹೆಗಳಿದ್ದರೆ, ನೀವು ಯಾವಾಗಲೂ[ಸಮಸ್ಯೆಗಳು](https://github.com/gomzyakov/achievements/issues) ಗೆ ಬರೆಯಬಹುದು.

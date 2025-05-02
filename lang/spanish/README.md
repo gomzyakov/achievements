@@ -137,4 +137,4 @@ Puede cambiar el tono de piel preferido del Emoji accediendo a la [configuració
 
 ## ¿Tienes algunas sugerencia?
 
-Si tiene preguntas o sugerencias sobre cómo mejorar la información de esta página, siempre puede escribir a [issues](https://github.com/github-profile-achievements/spanish/issues).
+Si tiene preguntas o sugerencias sobre cómo mejorar la información de esta página, siempre puede escribir a [issues](https://github.com/gomzyakov/achievements/issues).
