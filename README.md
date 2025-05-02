@@ -3,27 +3,27 @@
 Read this in other languages:
 
 [English](README.md)
-&middot; [Chinese](lang/chinese.md)
-&middot; [Русский](lang/russian.md)
-&middot; [Nederlands](lang/dutch.md)
-&middot; [Français](lang/french.md)
-&middot; [Deutsch](lang/german.md)
-&middot; [हिन्दी](lang/hindi.md)
-&middot; [Italiano](lang/italian.md)
-&middot; [한국어](lang/korean.md) 
-&middot; [தமிழ்](lang/tamil.md)
-&middot; [ಕನ್ನಡ](lang/kannada.md)
-&middot; [odia](lang/odia.md)
-&middot; [pidgin](lang/pidgin.md)
-&middot; [Polski](lang/polish.md)
-&middot; [Português](lang/portuguese.md)
-&middot; [Español](lang/spanish.md)
-&middot; [Kiswahili](lang/swahili.md)
-&middot; [తెలుగు](lang/telugu.md)
-&middot; [Traditional chinese](lang/traditional-chinese.md)
-&middot; [Türkçe](lang/turkish.md)
-&middot; [isiZulu](lang/zulu.md)
-&middot; [Tiếng Việt](lang/vietnamese.md)
+&middot; [Chinese](lang/chinese/README.md)
+&middot; [Русский](lang/russian/README.md)
+&middot; [Nederlands](lang/dutch/README.md)
+&middot; [Français](lang/french/README.md)
+&middot; [Deutsch](lang/german/README.md)
+&middot; [हिन्दी](lang/hindi/README.md)
+&middot; [Italiano](lang/italian/README.md)
+&middot; [한국어](lang/korean/README.md) 
+&middot; [தமிழ்](lang/tamil/README.md)
+&middot; [ಕನ್ನಡ](lang/kannada/README.md)
+&middot; [odia](lang/odia/README.md)
+&middot; [pidgin](lang/pidgin/README.md)
+&middot; [Polski](lang/polish/README.md)
+&middot; [Português](lang/portuguese/README.md)
+&middot; [Español](lang/spanish/README.md)
+&middot; [Kiswahili](lang/swahili/README.md)
+&middot; [తెలుగు](lang/telugu/README.md)
+&middot; [Traditional chinese](lang/traditional-chinese/README.md)
+&middot; [Türkçe](lang/turkish/README.md)
+&middot; [isiZulu](lang/zulu/README.md)
+&middot; [Tiếng Việt](lang/vietnamese/README.md)
 
 _Don't have the language you need? Just create an [issue](https://github.com/gomzyakov/achievements/issues/new/choose)._
 
@@ -123,14 +123,15 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Yes | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Yes | Participate in the [GitHub Campus Program](https://education.github.com/experts) (Open [in August 2024](https://education.github.com/campus_experts)) |
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security Advisory Credit** | Yes | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
-|  | **GitHub Star** | Yes | Become a [GitHub Star](https://stars.github.com) |
+| ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | Yes | Become a [GitHub Star](https://stars.github.com) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | No | Have  your reply to a discussion marked as the answer |
 
 [gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-
+[stars-dark]: https://github.com/user-attachments/assets/65e7d969-413f-4475-bceb-36841c4484cb
+[stars-light]: https://github.com/user-attachments/assets/ae09cb09-3f96-46e2-8f1b-26a2cea79529
 <br>
 
 ## Do you have some ideas?

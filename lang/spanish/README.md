@@ -2,28 +2,28 @@
 
 #### Read this in other languages:
 
-[English](../README.md)
-&middot; [Chinese](chinese.md)
-&middot; [Русский](russian.md)
-&middot; [Nederlands](dutch.md)
-&middot; [Français](french.md)
-&middot; [Deutsch](german.md)
-&middot; [हिन्दी](hindi.md)
-&middot; [Italiano](italian.md)
+[English](../../README.md)
+&middot; [Chinese](../../lang/chinese/README.md)
+&middot; [Русский](../../lang/russian/README.md)
+&middot; [Nederlands](../../lang/dutch/README.md)
+&middot; [Français](../../lang/french/README.md)
+&middot; [Deutsch](../../lang/german/README.md)
+&middot; [हिन्दी](../../lang/hindi/README.md)
+&middot; [Italiano](../../lang/italian/README.md)
 &middot; [한국어](lang/korean/README.md)  
 &middot; [தமிழ்](lang/tamil/README.md)
-&middot; [ಕನ್ನಡ](kannada.md)
-&middot; [odia](odia.md)
-&middot; [pidgin](pidgin.md)
-&middot; [Polski](polish.md)
-&middot; [Português](portuguese.md)
-&middot; [Español](spanish.md)
-&middot; [Kiswahili](../../lang/swahili/swahili)
-&middot; [తెలుగు](../../lang/telugu/telugu)
-&middot; [Traditional chinese](../../lang/traditional-chinese/traditional-chinese)
-&middot; [Türkçe](../../lang/turkish/turkish)
-&middot; [isiZulu](../../lang/zulu/zulu)
-&middot; [Tiếng Việt](../../lang/vietnamese/vietnamese)
+&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
+&middot; [odia](../../lang/odia/README.md)
+&middot; [pidgin](../../lang/pidgin/README.md)
+&middot; [Polski](../../lang/polish/README.md)
+&middot; [Português](../../lang/portuguese/README.md)
+&middot; [Español](../../lang/spanish/README.md)
+&middot; [Kiswahili](../../lang/swahili/README.md)
+&middot; [తెలుగు](../../lang/telugu/README.md)
+&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
+&middot; [Türkçe](../../lang/turkish/README.md)
+&middot; [isiZulu](../../lang/zulu/README.md)
+&middot; [Tiếng Việt](../../lang/vietnamese/README.md)
 
 _Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
@@ -122,13 +122,15 @@ Puede cambiar el tono de piel preferido del Emoji accediendo a la [configuració
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Sí | Colaborá en la búsqueda de vulnerabilidades de seguridad en [GitHub Security](https://bounty.github.com/) |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | No | Participa en el [GitHub Campus Program](https://education.github.com/experts) (abre [en agosto de 2024](https://education.github.com/campus_experts)) |
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security advisory credit** | Sí | Haz que tu aviso de seguridad enviado a [GitHub Advisory Database](https://github.com/advisories) sea aceptado. |
-|  | **GitHub Star** | Sí | Conviértete en una [estrella de GitHub](https://stars.github.com) |
+| ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | Sí | Conviértete en una [estrella de GitHub](https://stars.github.com) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | No | Haz que tu respuesta a una discusión sea marcada como la respuesta aceptada. |
 
 [gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
+[stars-dark]: https://private-user-images.githubusercontent.com/187608631/384937096-7d7f73aa-7985-4898-9009-2b72e57f74de.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzMzMxNDksIm5iZiI6MTczMTMzMjg0OSwicGF0aCI6Ii8xODc2MDg2MzEvMzg0OTM3MDk2LTdkN2Y3M2FhLTc5ODUtNDg5OC05MDA5LTJiNzJlNTdmNzRkZS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMVQxMzQ3MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMGJhODRmMGIzYTk0YjRmNmYzOWEzZjUwZjVkOTMxNWNmNmNmOWNmOTIxZmVkZDBlYWM1Njk0MzhiYzI1NDk5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vtxAyuZURAyPuWlFGpXJBVHS4f0JUCsiGiR5DeFzb3M
+[stars-light]: https://private-user-images.githubusercontent.com/187608631/384937247-d12a53f6-0cd1-44e4-b7c6-7f6568d7b7e1.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzMzMxNDksIm5iZiI6MTczMTMzMjg0OSwicGF0aCI6Ii8xODc2MDg2MzEvMzg0OTM3MjQ3LWQxMmE1M2Y2LTBjZDEtNDRlNC1iN2M2LTdmNjU2OGQ3YjdlMS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExMVQxMzQ3MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZDgwOWZhNmI2ODY1NTllMjZjZmExNzZiNzEwYjM4NDhiNGFlYjQ4YTk5OGQ3YTE0OWJmY2RmZGQ3NjlkMTUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VAkoABXwOgXy38BL0AAn0PQE_tzd73Byg16kFKAUnA8
 
 
 <br>
