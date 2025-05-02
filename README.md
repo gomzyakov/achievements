@@ -25,7 +25,7 @@ Read this in other languages:
 &middot; [isiZulu](lang/zulu/README.md)
 &middot; [Tiếng Việt](lang/vietnamese/README.md)
 
-_Don't have the language you need? Just create an [issue](https://github.com/gomzyakov/achievements/issues/new/choose)._
+_Don't have the language you need? Just create an [issue](https://github.com/gomzyakov/achievements/issues)._
 
 <br>
 
