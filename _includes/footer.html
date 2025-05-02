@@ -1,0 +1,26 @@
+{% if site.github %}
+<div class="container">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+        <div class="col-md-6 d-flex align-items-center">
+            <span class="mb-3 mb-md-0">
+                <a href="https://github.com/gomzyakov/github-profile-achievements"
+                   class="text-body-secondary text-decoration-none ">
+                    <strong>{{ site.github.repository_nwo }}</strong> on GitHub
+                </a>
+            </span>
+        </div>
+        <ul class="nav col-md-6 justify-content-end">
+            <li class="nav-item me-3">
+                Page updated {{ site.time | date_to_long_string }}
+            </li>
+            {% if site.github.releases and site.github.releases[0] %}
+            <li class="nav-item">
+                {% assign latestRelease = site.github.releases[0] %}
+                Latest release:
+                <strong>{{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (pre-release){% endif %}</strong>
+            </li>
+            {% endif %}
+        </ul>
+    </footer>
+</div>
+{% endif %}
