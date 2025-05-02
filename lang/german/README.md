@@ -217,4 +217,4 @@ Sie können Ihren bevorzugten Hautton ändern, indem Sie zu [Darstellungseinstel
 
 ## Habt ihr ein paar Ideen?
 
-Wenn Sie Fragen oder Vorschläge zur Verbesserung der Informationen auf dieser Seite haben, können Sie jederzeit ein [Issue](https://github.com/github-profile-achievements/german/issues) verfassen.
+Wenn Sie Fragen oder Vorschläge zur Verbesserung der Informationen auf dieser Seite haben, können Sie jederzeit ein [Issue](https://github.com/gomzyakov/achievements/issues) verfassen.

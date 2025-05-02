@@ -137,4 +137,4 @@ L'aspetto estetico di alcuni traguardi dipende dalla tua preferenza riguardo all
 
 ## Hai qualche idea o suggerimento?
 
-Se hai domande o suggerimenti su come migliorare i contenuti di questa pagina, puoi scrivere su [issues](https://github.com/github-profile-achievements/english/issues).
+Se hai domande o suggerimenti su come migliorare i contenuti di questa pagina, puoi scrivere su [issues](https://github.com/gomzyakov/achievements/issues).

@@ -1,8 +1,8 @@
 # Text for `site.*`
 title: Complete list of all GitHub profile Badges and Achievements
-url: https://gomzyakov.github.io/github-profile-achievements
+url: https://gomzyakov.github.io/achievements
 baseurl: ""
-repository: gomzyakov/github-profile-achievements
+repository: gomzyakov/achievements
 
 permalinks: pretty
 

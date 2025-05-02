@@ -135,4 +135,4 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 
 ## क्या आपके पास कुछ सुझाव हैं?
 
-यदि आपके पास इस पेज की जानकारी को लेकर कोई सवाल या सुझाव हैएम तो आप बेझिजक [इश्यू](https://github.com/github-profile-achievements/template/issues) ओपन कर सकते हैं।
+यदि आपके पास इस पेज की जानकारी को लेकर कोई सवाल या सुझाव हैएम तो आप बेझिजक [इश्यू](https://github.com/gomzyakov/achievements/issues) ओपन कर सकते हैं।

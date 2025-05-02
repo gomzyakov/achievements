@@ -139,4 +139,4 @@ _Don't have the language you need? Just create an [issues](https://github.com/go
 
 ## 您有什么想法吗？
 
-如果对如何改进此页面上的信息有疑问或建议，您可以随时提交 [issues](https://github.com/github-profile-achievements/chinese/issues)。
+如果对如何改进此页面上的信息有疑问或建议，您可以随时提交 [issues](https://github.com/gomzyakov/achievements/issues)。

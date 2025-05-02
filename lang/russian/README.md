@@ -197,5 +197,5 @@ _Не нашли нужный вам язык? Просто создайте [is
 ## Есть предложения?
 
 Если у вас есть вопрос или предложение, как улучшить информацию на этой странице, вы всегда можете написать
-в [issues](https://github.com/github-profile-achievements/russian/issues).
+в [issues](https://github.com/gomzyakov/achievements/issues).
 

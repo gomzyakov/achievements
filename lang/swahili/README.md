@@ -134,4 +134,4 @@ Waweza kubadilisha rangi yako ya Ngozi unayopendelea kwa kwenda kwa: [Mipangilio
 
 ## Je, una mawazo fulani?
 
-Ikiwa una maswali au mapendekezo juu ya jinsi ya kuboresha maelezo kwenye ukurasa huu, unaweza kuiandika kwa [suala](https://github.com/github-profile-achievements/template/issues).
+Ikiwa una maswali au mapendekezo juu ya jinsi ya kuboresha maelezo kwenye ukurasa huu, unaweza kuiandika kwa [suala](https://github.com/gomzyakov/achievements/issues).
