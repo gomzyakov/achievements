@@ -111,4 +111,4 @@ _Read this in [other languages](../README.md)._
 
 ## 어떤 생각이 있으신가요?
 
-이 페이지의 정보를 개선하는 방법에 대해 궁금하거나 제안이 있으시면 언제든지 제출하실 수 있습니다 [issues](https://github.com/gomzyakov/achievements/issues).
+이 페이지의 정보를 개선하는 방법에 대해 궁금하거나 제안이 있으시면 언제든지 제출하실 수 있습니다 [issues](https://github.com/gomzyakov/github-achievements/issues).

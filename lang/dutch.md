@@ -109,4 +109,4 @@ Je kan je voorkeur voor de Huidskleur aanpassen, door naar de [weergave instelli
 
 ## Heb je ideeën?
 
-Als je vragen of suggesties hebt om deze informatie op deze pagina te verbeteren, kan je altijd een [issue](https://github.com/gomzyakov/achievements/issues) indienen.
+Als je vragen of suggesties hebt om deze informatie op deze pagina te verbeteren, kan je altijd een [issue](https://github.com/gomzyakov/github-achievements/issues) indienen.
