@@ -1,31 +1,6 @@
 # அனைத்து GitHub தனிப்பட்ட சுயவிவர பெஜ்கள் மற்றும் சாதனைகளின் முழுமையான பட்டியல்
 
-#### Read this in other languages:
-
-[English](../README.md)
-&middot; [Chinese](chinese.md)
-&middot; [Русский](russian.md)
-&middot; [Nederlands](dutch.md)
-&middot; [Français](french.md)
-&middot; [Deutsch](german.md)
-&middot; [हिन्दी](hindi.md)
-&middot; [Italiano](italian.md)
-&middot; [한국어](lang/korean/README.md)
-&middot; [தமிழ்](lang/tamil/README.md)
-&middot; [ಕನ್ನಡ](kannada.md)
-&middot; [odia](odia.md)
-&middot; [pidgin](pidgin.md)
-&middot; [Polski](polish.md)
-&middot; [Português](portuguese.md)
-&middot; [Español](spanish.md)
-&middot; [Kiswahili](swahili.md)
-&middot; [తెలుగు](../../lang/telugu/telugu)
-&middot; [Traditional chinese](../../lang/traditional-chinese/traditional-chinese)
-&middot; [Türkçe](../../lang/turkish/turkish)
-&middot; [isiZulu](../../lang/zulu/zulu)
-&middot; [Tiếng Việt](../../lang/vietnamese/vietnamese)
-
-_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
+_Read this in [other languages](../README.md)._
 
 <br>
 
