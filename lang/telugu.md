@@ -109,4 +109,4 @@ _Read this in [other languages](../README.md)._
 
 ## మీకు కొన్ని ఆలోచనలు ఉన్నాయా?
 
-ఈ పేజీపై సమాచారం మెరుగుపరచడంపై మీకు ఎలాంటి ప్రశ్నలు లేదా సూచనలు ఉంటే, మీరు ఎప్పుడూ [issues](https://github.com/gomzyakov/achievements/issues) కు రాయవచ్చు.
+ఈ పేజీపై సమాచారం మెరుగుపరచడంపై మీకు ఎలాంటి ప్రశ్నలు లేదా సూచనలు ఉంటే, మీరు ఎప్పుడూ [issues](https://github.com/gomzyakov/github-achievements/issues) కు రాయవచ్చు.

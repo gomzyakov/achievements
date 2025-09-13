@@ -111,5 +111,5 @@ Bạn có thể thay đổi tông màu da ưa thích của mình bằng cách tr
 
 ## Bạn có ý tưởng gì không ?
 
-Nếu bạn có câu hỏi hoặc góp ý về cách cải thiện thông tin ở trang này, bạn có thể viết về  [issues](https://github.com/gomzyakov/achievements/issues).
+Nếu bạn có câu hỏi hoặc góp ý về cách cải thiện thông tin ở trang này, bạn có thể viết về  [issues](https://github.com/gomzyakov/github-achievements/issues).
 

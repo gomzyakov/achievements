@@ -110,4 +110,4 @@ _Read this in [other languages](../README.md)._
 
 ## क्या आपके पास कुछ सुझाव हैं?
 
-यदि आपके पास इस पेज की जानकारी को लेकर कोई सवाल या सुझाव हैएम तो आप बेझिजक [इश्यू](https://github.com/gomzyakov/achievements/issues) ओपन कर सकते हैं।
+यदि आपके पास इस पेज की जानकारी को लेकर कोई सवाल या सुझाव हैएम तो आप बेझिजक [इश्यू](https://github.com/gomzyakov/github-achievements/issues) ओपन कर सकते हैं।
