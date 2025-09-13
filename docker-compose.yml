@@ -1,9 +1,0 @@
-services:
-  jekyll:
-    image: jekyll/jekyll:4.2.0
-    platform: linux/amd64
-    command: jekyll serve --force_polling --drafts --trace
-    ports:
-      - 4000:4000
-    volumes:
-      - .:/srv/jekyll
