@@ -1,31 +1,6 @@
 # Tổng hợp những huy hiệu và thành tựu từ GitHub
 
-Read this in other languages:
-
-[English](../README.md)
-&middot; [Chinese](chinese.md)
-&middot; [Русский](russian.md)
-&middot; [Nederlands](dutch.md)
-&middot; [Français](french.md)
-&middot; [Deutsch](german.md)
-&middot; [हिन्दी](hindi.md)
-&middot; [Italiano](italian.md)
-&middot; [한국어](korean.md) 
-&middot; [தமிழ்](tamil.md)
-&middot; [ಕನ್ನಡ](kannada.md)
-&middot; [odia](odia.md)
-&middot; [pidgin](pidgin.md)
-&middot; [Polski](polish.md)
-&middot; [Português](portuguese.md)
-&middot; [Español](spanish.md)
-&middot; [Kiswahili](swahili.md)
-&middot; [తెలుగు](telugu.md)
-&middot; [Traditional chinese](traditional-chinese.md)
-&middot; [Türkçe](turkish.md)
-&middot; [isiZulu](../../lang/zulu/zulu)
-&middot; [Tiếng Việt](vietnamese.md)
-
-_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
+_Read this in [other languages](../README.md)._
 
 <br>
 

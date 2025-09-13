@@ -1,31 +1,6 @@
 # Elenco completo di tutti i badge e i traguardi del profilo GitHub
 
-#### Read this in other languages:
-
-[English](../README.md)
-&middot; [Chinese](chinese.md)
-&middot; [Русский](../../lang/russian/russian)
-&middot; [Nederlands](dutch.md)
-&middot; [Français](french.md)
-&middot; [Deutsch](german.md)
-&middot; [हिन्दी](hindi.md)
-&middot; [Italiano](italian.md)
-&middot; [한국어](lang/korean/README.md)
-&middot; [தமிழ்](lang/tamil/README.md)  
-&middot; [ಕನ್ನಡ](../../lang/kannada/kannada)
-&middot; [odia](../../lang/odia/odia)
-&middot; [pidgin](../../lang/pidgin/pidgin)
-&middot; [Polski](../../lang/polish/polish)
-&middot; [Português](../../lang/portuguese/portuguese)
-&middot; [Español](../../lang/spanish/spanish)
-&middot; [Kiswahili](../../lang/swahili/swahili)
-&middot; [తెలుగు](../../lang/telugu/telugu)
-&middot; [Traditional chinese](../../lang/traditional-chinese/traditional-chinese)
-&middot; [Türkçe](../../lang/turkish/turkish)
-&middot; [isiZulu](../../lang/zulu/zulu)
-&middot; [Tiếng Việt](../../lang/vietnamese/vietnamese)
-
-_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
+_Read this in [other languages](../README.md)._
 
 <br>
 
